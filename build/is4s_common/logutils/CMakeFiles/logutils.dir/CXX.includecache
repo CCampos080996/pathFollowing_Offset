@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/christian/lateralOffset/src/is4s_common/logutils/include/logutils/logutils.hpp
+functional
+-
+iostream
+-
+string
+-
+
+/home/christian/lateralOffset/src/is4s_common/logutils/src/logutils.cpp
+logutils/logutils.hpp
+/home/christian/lateralOffset/src/is4s_common/logutils/src/logutils/logutils.hpp
+

@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -shared -Wl,-soname,libtimeutils.so -o /home/christian/lateralOffset/devel/lib/libtimeutils.so CMakeFiles/timeutils.dir/src/TimeUtils.c.o CMakeFiles/timeutils.dir/src/Timer.c.o -lm -lrt 

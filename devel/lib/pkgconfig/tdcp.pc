@@ -1,0 +1,8 @@
+prefix=/home/christian/lateralOffset/devel
+
+Name: tdcp
+Description: Description of tdcp
+Version: 0.0.0
+Cflags: -I/home/christian/lateralOffset/devel/include -I/home/christian/lateralOffset/src/tdcp/include
+Libs: -L/home/christian/lateralOffset/devel/lib -ltdcp
+Requires: message_runtime gnsscommon ros_sensor_msgs roscpp sensor_msgs

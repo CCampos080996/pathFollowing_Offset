@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+  <name>geodesy</name>
+  <version>0.3.0</version>
+  <description>The geodesy package</description>
+
+  <maintainer email="william.travis@is4s.com">William Travis</maintainer>
+
+  <license>BSD</license>
+
+  <url type="website">http://gitlab.is4s-auburn.com/common/geodesy</url>
+
+  <author email="william.travis@is4s.com">William Travis</author> -->
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>Eigen3</build_depend>
+
+</package>

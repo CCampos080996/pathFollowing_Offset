@@ -1,0 +1,6 @@
+set(lateraloffset_SETUP_PY_VERSION "0.0.0")
+set(lateraloffset_SETUP_PY_SCRIPTS "")
+set(lateraloffset_SETUP_PY_PACKAGES "relativePathGeneration")
+set(lateraloffset_SETUP_PY_PACKAGE_DIRS "src/relativePathGeneration")
+set(lateraloffset_SETUP_PY_MODULES "")
+set(lateraloffset_SETUP_PY_MODULE_DIRS "")

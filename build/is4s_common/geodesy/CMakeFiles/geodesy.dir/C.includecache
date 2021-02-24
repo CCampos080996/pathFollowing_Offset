@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/christian/lateralOffset/src/is4s_common/geodesy/include/geodesy/worldMagneticModel.h
+
+/home/christian/lateralOffset/src/is4s_common/geodesy/src/worldMagneticModel.c
+stdio.h
+-
+string.h
+-
+math.h
+-
+stdlib.h
+-
+ctype.h
+-
+assert.h
+-
+geodesy/worldMagneticModel.h
+/home/christian/lateralOffset/src/is4s_common/geodesy/src/geodesy/worldMagneticModel.h
+

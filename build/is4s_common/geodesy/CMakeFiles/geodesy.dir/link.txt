@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -std=gnu++11  -shared -Wl,-soname,libgeodesy.so -o /home/christian/lateralOffset/devel/lib/libgeodesy.so CMakeFiles/geodesy.dir/src/gravity.cpp.o CMakeFiles/geodesy.dir/src/coordinateConversions.cpp.o CMakeFiles/geodesy.dir/src/worldMagneticModel.c.o CMakeFiles/geodesy.dir/src/MagneticModel.cpp.o 

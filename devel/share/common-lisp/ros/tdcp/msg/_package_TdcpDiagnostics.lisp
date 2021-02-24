@@ -1,0 +1,20 @@
+(cl:in-package tdcp-msg)
+(cl:export '(HEADER-VAL
+          HEADER
+          GPSTIME-VAL
+          GPSTIME
+          NUMAVAILABLESVS-VAL
+          NUMAVAILABLESVS
+          NUMPSRSOLSVS-VAL
+          NUMPSRSOLSVS
+          NUMTDCPSOLSVS-VAL
+          NUMTDCPSOLSVS
+          SPSDELTAPOSITION-VAL
+          SPSDELTAPOSITION
+          FAULTCHECKVARIABLE1-VAL
+          FAULTCHECKVARIABLE1
+          FAULTCHECKVARIABLE2-VAL
+          FAULTCHECKVARIABLE2
+          SAMPLETIME-VAL
+          SAMPLETIME
+))

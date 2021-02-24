@@ -1,0 +1,8 @@
+prefix=/home/christian/lateralOffset/devel
+
+Name: eigentools
+Description: Description of eigentools
+Version: 0.3.0
+Cflags: -I/home/christian/lateralOffset/src/is4s_common/eigentools/include -I/usr/include/eigen3
+Libs: -L/home/christian/lateralOffset/devel/lib -leigentools
+Requires: 

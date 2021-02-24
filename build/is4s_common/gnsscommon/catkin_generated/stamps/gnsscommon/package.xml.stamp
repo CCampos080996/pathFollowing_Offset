@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package>
+  <name>gnsscommon</name>
+  <version>0.3.0</version>
+  <description>The gnsscommon package</description>
+
+  <maintainer email="david.hodo@is4s.com">David Hodo</maintainer>
+
+  <license>BSD</license>
+
+  <url type="website">http://gitlab.is4s-auburn.com/gps/gnsscommon</url>
+
+  <author email="william.travis@is4s.com">William Travis</author> -->
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>logutils</run_depend>
+  <build_depend>logutils</build_depend>
+  <run_depend>geodesy</run_depend>
+  <build_depend>geodesy</build_depend>
+  <run_depend>timeutils</run_depend>
+  <build_depend>timeutils</build_depend>
+  <run_depend>eigentools</run_depend>
+  <build_depend>eigentools</build_depend>
+</package>

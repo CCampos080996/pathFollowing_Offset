@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+  <name>ils</name>
+  <version>0.1.0</version>
+  <description>Integer Least Squares Library</description>
+
+  <maintainer email="william.travis@is4s.com">William Travis</maintainer>
+
+  <license>BSD</license>
+
+  <author email="william.travis@is4s.com">William Travis</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <run_depend>logutils</run_depend>
+  <build_depend>logutils</build_depend> 
+
+</package>

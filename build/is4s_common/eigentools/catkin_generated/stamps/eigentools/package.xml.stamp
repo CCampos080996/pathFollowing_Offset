@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <name>eigentools</name>
+  <version>0.3.0</version>
+  <description>eigentools Library</description>
+
+  <maintainer email="william.travis@is4s.com">William Travis</maintainer>
+
+  <license>BSD</license>
+
+  <author email="william.travis@is4s.com">William Travis</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>Eigen3</build_depend>
+
+</package>

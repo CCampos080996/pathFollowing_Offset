@@ -1,0 +1,8 @@
+prefix=/home/christian/lateralOffset/devel
+
+Name: drtk
+Description: Description of drtk
+Version: 0.1.0
+Cflags: -I/home/christian/lateralOffset/devel/include -I/home/christian/lateralOffset/src/drtk/include
+Libs: -L/home/christian/lateralOffset/devel/lib -ldrtk
+Requires: message_runtime logutils gnsscommon ils eigentools logutils ros_sensor_msgs nav_msgs sensor_msgs tf rosbag rospy

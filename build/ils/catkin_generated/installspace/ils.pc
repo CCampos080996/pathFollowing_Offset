@@ -1,0 +1,8 @@
+prefix=/home/christian/lateralOffset/install
+
+Name: ils
+Description: Description of ils
+Version: 0.1.0
+Cflags: -I/home/christian/lateralOffset/install/include
+Libs: -L/home/christian/lateralOffset/install/lib -lils
+Requires: logutils

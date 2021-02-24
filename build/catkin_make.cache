@@ -1,0 +1,2 @@
+drtk:ils:is4s_common/common:is4s_common/eigentools:is4s_common/geodesy:is4s_common/gnsscommon:is4s_common/logutils:is4s_common/timeutils:lateraloffset:ros-sensor-msgs:tdcp:wgs_conversions
+-DCATKIN_DEVEL_PREFIX=/home/christian/lateralOffset/devel -DCMAKE_INSTALL_PREFIX=/home/christian/lateralOffset/install -G Unix Makefiles

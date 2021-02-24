@@ -1,0 +1,14 @@
+(cl:in-package ros_sensor_msgs-msg)
+(cl:export '(FIXSTATUS-VAL
+          FIXSTATUS
+          TIMEOFVALIDITY-VAL
+          TIMEOFVALIDITY
+          LLHPOSITION-VAL
+          LLHPOSITION
+          ENUVELOCITY-VAL
+          ENUVELOCITY
+          POSITIONCOVARIANCE-VAL
+          POSITIONCOVARIANCE
+          POSITION_COVARIANCE_TYPE-VAL
+          POSITION_COVARIANCE_TYPE
+))

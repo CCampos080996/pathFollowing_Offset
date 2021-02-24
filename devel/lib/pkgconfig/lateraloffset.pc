@@ -1,0 +1,8 @@
+prefix=/home/christian/lateralOffset/devel
+
+Name: lateraloffset
+Description: Description of lateraloffset
+Version: 0.0.0
+Cflags: -I/home/christian/lateralOffset/devel/include
+Libs: -L/home/christian/lateralOffset/devel/lib 
+Requires: message_runtime std_msgs rospy tf nav_msgs geometry_msgs tdcp drtk wgs_conversions

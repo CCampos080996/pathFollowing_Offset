@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<package>
+  <name>drtk</name>
+  <version>0.1.0</version>
+  <description>DRTK Library</description>
+
+  <maintainer email="jdp0009@auburn.edu">Dan Pierce</maintainer>
+
+  <license>BSD</license>
+
+  <author email="william.travis@is4s.com">William Travis</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <run_depend>logutils</run_depend>
+  <build_depend>logutils</build_depend>
+
+  <run_depend>gnsscommon</run_depend>
+  <build_depend>gnsscommon</build_depend>
+
+  <run_depend>ils</run_depend>
+  <build_depend>ils</build_depend>
+
+  <run_depend>novatel</run_depend>
+  <build_depend>novatel</build_depend>
+
+  <run_depend>serial</run_depend>
+  <build_depend>serial</build_depend>
+
+  <run_depend>eigentools</run_depend>
+  <build_depend>eigentools</build_depend>
+
+  <run_depend>ros_sensor_msgs</run_depend>
+  <build_depend>ros_sensor_msgs</build_depend>
+
+  <run_depend>sensor_msgs</run_depend>
+  <build_depend>sensor_msgs</build_depend> 
+
+  <run_depend>nav_msgs</run_depend>
+  <build_depend>nav_msgs</build_depend>
+
+  <run_depend>tf</run_depend>
+  <build_depend>tf</build_depend>
+
+  <run_depend>rospy</run_depend>
+  <build_depend>rospy</build_depend>
+
+  <run_depend>rosbag</run_depend>
+  <build_depend>rosbag</build_depend>
+
+  <build_depend>message_generation</build_depend>
+  <run_depend>message_runtime</run_depend>
+
+  <build_depend>eigen</build_depend>
+
+</package>

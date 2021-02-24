@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -std=gnu++11  -shared -Wl,-soname,liblogutils.so -o /home/christian/lateralOffset/devel/lib/liblogutils.so CMakeFiles/logutils.dir/src/logutils.cpp.o 

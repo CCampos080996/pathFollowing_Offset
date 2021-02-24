@@ -1,0 +1,10 @@
+(cl:in-package ros_sensor_msgs-msg)
+(cl:export '(PRN-VAL
+          PRN
+          IONOSPHERECORRECTIONL1-VAL
+          IONOSPHERECORRECTIONL1
+          IONOSPHERECORRECTIONL2-VAL
+          IONOSPHERECORRECTIONL2
+          TROPOSPHERECORRECTION-VAL
+          TROPOSPHERECORRECTION
+))

@@ -1,0 +1,27 @@
+<package>
+  <name>is4s_common</name>
+  <version>0.3.0</version>
+  <description>IS4S Common Libraries</description>
+  <maintainer email="david.hodo@is4s.com">David Hodo</maintainer>
+  <license>Proprietary</license>
+
+  <author email="david.hodo@is4s.com">David Hodo</author>
+  <author email="william.travis@is4s.com">William Travis</author>
+  <author email="josh.clanton@is4s.com">Josh Clanton</author>
+  <author email="chris.collins@is4s.com">Chris Collins</author>
+  <author email="rob.daily@is4s.com">Rob Daily</author>
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <run_depend>catkin</run_depend> <!-- only for backward compatibility with rosbuild -->
+  <run_depend>eigentools</run_depend>
+  <run_depend>geodesy</run_depend>
+  <run_depend>gnsscommon</run_depend>
+  <run_depend>logutils</run_depend>
+  <run_depend>timeutils</run_depend>
+
+  <export>
+    <metapackage/>
+  </export>
+</package>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <name>logutils</name>
+  <version>0.3.0</version>
+  <description>logutils Library</description>
+
+  <maintainer email="william.travis@is4s.com">William Travis</maintainer>
+
+  <license>All Rights Reserved</license>
+
+  <author email="william.travis@is4s.com">William Travis</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>

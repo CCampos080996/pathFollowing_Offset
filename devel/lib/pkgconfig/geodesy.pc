@@ -1,0 +1,8 @@
+prefix=/home/christian/lateralOffset/devel
+
+Name: geodesy
+Description: Description of geodesy
+Version: 0.3.0
+Cflags: -I/home/christian/lateralOffset/src/is4s_common/geodesy/include
+Libs: -L/home/christian/lateralOffset/devel/lib -lgeodesy
+Requires: 

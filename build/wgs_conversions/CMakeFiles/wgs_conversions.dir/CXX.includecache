@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/christian/lateralOffset/src/wgs_conversions/include/wgs_conversions/wgs_conversions.h
+iostream
+-
+math.h
+-
+
+/home/christian/lateralOffset/src/wgs_conversions/src/wgs_conversions.cpp
+wgs_conversions/wgs_conversions.h
+/home/christian/lateralOffset/src/wgs_conversions/src/wgs_conversions/wgs_conversions.h
+

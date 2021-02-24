@@ -1,0 +1,8 @@
+prefix=/home/christian/lateralOffset/install
+
+Name: gnsscommon
+Description: Description of gnsscommon
+Version: 0.3.0
+Cflags: -I/home/christian/lateralOffset/install/include -I/usr/include/eigen3
+Libs: -L/home/christian/lateralOffset/install/lib -lgnsscommon
+Requires: logutils geodesy timeutils eigentools

@@ -1,0 +1,8 @@
+prefix=/home/christian/lateralOffset/install
+
+Name: logutils
+Description: Description of logutils
+Version: 0.3.0
+Cflags: -I/home/christian/lateralOffset/install/include
+Libs: -L/home/christian/lateralOffset/install/lib -llogutils
+Requires: 
